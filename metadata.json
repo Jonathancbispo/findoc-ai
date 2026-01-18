@@ -1,0 +1,7 @@
+{
+  "name": "FinDoc AI - SaaS Document Automation",
+  "description": "An enterprise-grade SaaS platform for automated financial document extraction, AI-powered insights, and PDF report generation using Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
